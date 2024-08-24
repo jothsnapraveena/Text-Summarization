@@ -26,7 +26,8 @@ list_of_files=[".github/workflows/.gitkeep",
                "Dockerfile",
                "requirements.txt",
                "setup.py",
-               "research/trials.ipynb"
+               "research/trials.ipynb",
+               "research/01 Data Ingestion.ipynb"
 
 
 ]
